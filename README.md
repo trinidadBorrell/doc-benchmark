@@ -219,3 +219,7 @@ interested in the broader workflow:
 These phases reach into modules under [`src/misc/`](src/misc/) and can be
 invoked alongside or independently of `--paper-eval`. They are documented in
 [`src/misc/README.md`](src/misc/README.md).
+
+## Acknowledgments
+
+This work was supported by the [Paris Brain Institute America](https://parisbraininstitute-america.org/).
